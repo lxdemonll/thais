@@ -1,2 +1,0 @@
-# thais
-sla
